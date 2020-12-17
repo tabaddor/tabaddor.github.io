@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Arman Tabaddor"
 title_separator          : "-"
-name                     : &name "Arman Tabaddor"
+name                     : &name
 description              : &description ""
 url                      : https://tabaddor.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/tabaddor"
+  github           : tabaddor
   google_plus      :
   keybase          :
   instagram        :
