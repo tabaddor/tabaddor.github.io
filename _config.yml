@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Arman Tabaddor"
 title_separator          : "-"
 name                     : &name
-description              : &description ""
+description              : &description
 url                      : https://tabaddor.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tabaddor/tabaddor.github.io"
