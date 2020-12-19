@@ -11,30 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, University of Michigan, 2018-2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Software Engineer Inter
+  * HARMAN Internation - Samsung Subsiduary
+  * Will be working on the Advanced Driver Assistance Systems (ADAS) team
+  * Supervisor: Aaron Thompson
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020-Presennt: Research Assistant
+  * University of Michigan College of Engineering - Computer Science and Engineering Department
+  * Real-Time Computing Lab
+  * Researching and developing a vehicle-to-vehicle (V2V) anomaly detection system for connected vehicles
+  * Supervisor: Mert D. Pesé and Professor Kang G. Shin
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * C++, C
+  * Python
+  * Full Stack Development
+* Machine Learning
+  * Keras 
+  * TensorFlow
+  * Scikit-Learn
+* Tools
+  * Ubuntu, Linux
+  * Bash
+  * Docker
+  * Robot Operating System (ROS)
 
 Publications
 ======
@@ -54,6 +60,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Software Team Lead for the Michigan Autonomous Aerial Vehicles
