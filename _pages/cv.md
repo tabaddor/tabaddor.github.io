@@ -15,12 +15,12 @@ Education
 
 Work experience
 ======
-* Summer 2021: Software Engineer Inter
-  * HARMAN Internation - Samsung Subsiduary
+* Summer 2021: Software Engineer Intern
+  * HARMAN International - Samsung Subsiduary
   * Will be working on the Advanced Driver Assistance Systems (ADAS) team
   * Supervisor: Aaron Thompson
 
-* 2020-Presennt: Research Assistant
+* 2020-Present: Research Assistant
   * University of Michigan College of Engineering - Computer Science and Engineering Department
   * Real-Time Computing Lab
   * Researching and developing a vehicle-to-vehicle (V2V) anomaly detection system for connected vehicles
@@ -47,13 +47,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
